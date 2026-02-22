@@ -1,0 +1,4 @@
+### Healthcheck endpoint
+GET http://localhost:8080/health
+Accept: application/json
+
